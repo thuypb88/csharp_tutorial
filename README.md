@@ -15,7 +15,7 @@
 - Cấu trúc mảng, dữ liệu mảng
 - Phương thức - Method
 - Chuyển số thành chữ
-- Lớp - Class
+- [10. Lớp - Class](#lop)
 - Phương thức khởi tạo
 - Kiểu giá trị, tham chiếu
 - Chuỗi ký tự
@@ -28,3 +28,7 @@
 - null và nullable
 - Tính đa hình - abstract - interface
 
+
+<a name="lop"></a>
+10. Lớp - Class
+<a href="https://mm.tt/map/2499720842?t=ApDKf87rY5" target="_blank">OOP mindmap</a>
